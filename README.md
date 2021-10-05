@@ -1,3 +1,7 @@
+This repo was backed up here to illustrate the proposals on the main article, which can be found here: [How to customize your GitHub profile?](https://blog.dev.lawyer/2021/08/cutomize-github.html)
+Este repo foi salvo aqui para ilustrar a proposta do artigo que o originou, e que pode ser acessado aqui: [Como personalizar o seu perfil no GitHub?](https://br.dev.lawyer/2021/08/como-personalizar-github.html)
+
+
 ![Hi there, Octavio here!](https://github.com/OctavioSI/OctavioSI/blob/eb56f9c88a9319791290b31f45bbb099bd5b2b2f/header.png)
 
 Full-Stack Developer, Lawyer and Startup Founder. I like to code, create new concepts and drink beer. Father of two.
